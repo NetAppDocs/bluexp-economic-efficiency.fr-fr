@@ -1,0 +1,58 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-add.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
+summary: 'Le service d"efficacité économique fournit des recommandations pour les systèmes AFF en fonction de la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. Sur cette base, le service présente des recommandations qui répondent aux prévisions de croissance de la capacité et qui sont les plus optimales pour la configuration des actifs.' 
+---
+= Ajoutez de la capacité
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Le service d'efficacité économique fournit des recommandations pour les systèmes AFF en fonction de la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. Sur cette base, le service présente des recommandations qui répondent aux prévisions de croissance de la capacité et qui sont les plus optimales pour la configuration des actifs.
+
+L'une des recommandations peut être d'ajouter de la capacité en ajoutant des tiroirs à votre numéro de série existant.
+
+Vous pouvez facilement soumettre cette recommandation sous forme de demande de devis ou de demande de propositions d'options alternatives à l'équipe commerciale de NetApp.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *gouvernance* > *efficacité économique* > *planification de la capacité*.
+. Sélectionnez *Evaluer les options de stockage* pour la ressource.
+. Sélectionnez *Ajouter capacité*.
++
+Les données de l'actif s'affichent.
+
++
+** Consultez les prévisions, l'utilisation, la tendance à la latence et les tendances en matière d'IOPS.
+** Pour obtenir des recommandations, sélectionnez *évaluer les options de stockage*.
++
+La page définir les besoins en capacité affiche les prévisions de capacité actuelle et prévue, ainsi que les extensions de stockage recommandées en fonction de la croissance prévue.
+
+
+
+. Sélectionnez l'une des options à droite :
++
+** *Recommander un stockage supplémentaire basé sur une croissance prévue* et éventuellement ajouter un pourcentage de tampon.
+** *Recommander un stockage supplémentaire basé sur une croissance personnalisée des données* et saisir la capacité d'extension totale souhaitée, et non celle recommandée.
+
+
+. Sélectionnez *Continuer*.
++
+Un ensemble de recommandations s'affiche.
+
+. Passez en revue les recommandations pour les numéros de série de biens que vous avez sélectionnés.
+. Effectuez l'une des opérations suivantes :
++
+** Pour accepter la recommandation, sélectionnez *Suivant*. La demande est envoyée à un expert commercial NetApp qui vous aidera à obtenir la capacité supplémentaire dont vous avez besoin.
+** Pour demander différentes options, sélectionnez *demander des options alternatives*, entrez votre demande et sélectionnez *Envoyer un courriel*. Un e-mail est transmis à un expert commercial NetApp qui vous contactera pour répondre aux exigences de capacité.
+
+
+. Examinez la demande de capacité supplémentaire et sélectionnez *confirmer et soumettre*.
++
+La page État de planification de la capacité s'affiche.
+
+. Vérifiez l'état sur la page État de planification de la capacité.
+

@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp 
+summary: 'Le service de planification de la capacité identifie les clusters dont la capacité est actuellement faible ou prévue et vous fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
+---
+= Découvrez le service d'efficacité économique
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. Le service NetApp BlueXP Economic Efficiency peut vous aider à atteindre les objectifs suivants :
+
+* Identifiez les clusters affichant une faible capacité.
+* Examinez les clusters pour vérifier la capacité actuelle et prévue.
+* Examinez l'utilisation du processeur, les performances d'IOPS et la latence pour identifier les opportunités de résolution des problèmes de capacité.
+
+
+Le service Economic Efficiency identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Si vous choisissez d'ajouter de la capacité, une demande contenant des recommandations détaillées vous est transmise, ainsi qu'un représentant NetApp. Cette demande comprend les détails nécessaires pour faciliter la sélection de la capacité et la commande.
+
+Le service est accessible dans BlueXP sous la catégorie *gouvernance*.
+
+Le service d'efficacité économique s'applique uniquement aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).
+
+
+
+== Avantages du service d'efficacité économique
+
+Le service d'efficacité économique offre les avantages suivants :
+
+* Permet d'obtenir facilement des capacités supplémentaires
+* Conseiller de confiance et recommandations pour gérer les problèmes de capacité dans votre environnement
+* Réduction du temps passé à planifier un stockage supplémentaire
+
+
+
+
+== Le coût
+
+NetApp ne vous facture pas pour l'utilisation du service. Si vous décidez de basculer les données inactives vers un stockage cloud, vous devez consulter votre fournisseur cloud pour connaître les frais applicables.

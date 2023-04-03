@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: 'Vous n"avez plus besoin d"ajouter de la capacité ou de déplacer des données inactives. Vous pouvez désormais choisir aucune action requise et définir des rappels pour que vous puissiez vérifier à nouveau après 30, 60 ou 90 jours.' 
+---
+= Définissez les rappels pour les vérifier à nouveau
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Vous n'avez plus besoin d'ajouter de la capacité ou de déplacer des données inactives. Vous pouvez désormais choisir aucune action requise et définir des rappels pour que vous puissiez vérifier à nouveau après 30, 60 ou 90 jours.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *gouvernance* > *efficacité économique* > *planification de la capacité*.
+. Sélectionnez *Evaluer les options de stockage* pour la ressource.
+. Sélectionnez *aucune action requise*.
+. Vous pouvez choisir quand vous souhaitez être averti à nouveau d'un problème potentiel de faible capacité : 30, 60 ou 90 jours.
+. Sélectionnez *Enregistrer*.
+
+
+.Résultat
+Après ce délai, le risque apparaît à nouveau dans la liste des risques.

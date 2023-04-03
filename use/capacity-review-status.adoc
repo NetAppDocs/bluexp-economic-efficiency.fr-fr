@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: Commencez à utiliser BlueXP Economic Efficiency en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web. 
+---
+= Vérifiez l'état de planification de la capacité
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service Economic Efficiency les identifie comme ressources de faible capacité et vous alerte. De plus, le service d'efficacité économique fournit des recommandations pour déterminer si vous devez classer les données par niveau ou obtenir de la capacité supplémentaire.
+
+Vous pouvez examiner les types de données suivants pour faciliter la résolution du problème de capacité.
+
+* Plateforme
+* Pays où se trouve l'actif
+* Capacité actuelle et prévue par mois
+* Taux d'utilisation et pourcentage de la capacité
+* Tendances en matière de latence
+* Tendances en matière d'IOPS
+
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *gouvernance* > *efficacité économique* > *planification de la capacité*.
+. Sélectionnez *Evaluer les options de stockage* pour la ressource.
+. Choisissez l'une des options suivantes :
++
+** *Ajouter capacité*: Continuer par link:../use/capacity-add.html["Ajout de capacité"].
+** *Données inactives de niveau* : continuer par link:../use/capacity-tier-data.html["Tiering des données inactives vers un stockage cloud et libération du stockage"].
+** *Aucune action nécessaire*: Continuer par link:../use/capacity-reminders.html["En sélectionnant aucune action et en définissant des rappels à vérifier à nouveau"].
+
+
+
