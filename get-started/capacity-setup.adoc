@@ -29,7 +29,7 @@ De la même façon, vous pouvez détecter le cluster à l'avance avec BlueXP ou 
 
 Un connecteur BlueXP inclut des informations d'identification pour les machines NetApp ONTAP.
 
-Pour créer un connecteur dans BlueXP avant d'utiliser le service, reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["comment créer un connecteur"].
+Pour créer un connecteur dans BlueXP avant d'utiliser le service, reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["comment créer un connecteur"^].
 
 
 
@@ -37,4 +37,4 @@ Pour créer un connecteur dans BlueXP avant d'utiliser le service, reportez-vous
 
 La configuration implique notamment l'identification du nom du cluster, de l'adresse IP, du nom d'utilisateur et du mot de passe dans BlueXP.
 
-Pour obtenir des instructions avant d'utiliser le service, reportez-vous à la section https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Découvrez les clusters ONTAP sur site"].
+Pour obtenir des instructions avant d'utiliser le service, reportez-vous à la section https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Découvrez les clusters ONTAP sur site"^].
