@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/prerequisites.html 
 keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
-summary: Commencez à utiliser BlueXP Economic Efficiency en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web. 
+summary: 'Commencez à exploiter l"efficacité économique de BlueXP en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web.' 
 ---
 = Conditions préalables à l'efficacité économique
 :hardbreaks:

@@ -15,9 +15,7 @@
   <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Source ouverte</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Les fichiers de notification fournissent des informations sur les droits d'auteur et les licences de tiers utilisés dans le logiciel NetApp.</block>
-  <block id="1823c77710c8271e3b4633bfba2c5ef0" category="summary">Commencez à utiliser BlueXP Economic Efficiency en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web.</block>
   <block id="2dcdbb99022cfb6c4ef2bd327930b9d0" category="doc">Vérifiez l'état de planification de la capacité</block>
-  <block id="142154e222a455f7be51aa612aba2d1d" category="paragraph">Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service Economic Efficiency les identifie comme ressources de faible capacité et vous alerte. De plus, le service d'efficacité économique fournit des recommandations pour déterminer si vous devez classer les données par niveau ou obtenir de la capacité supplémentaire.</block>
   <block id="837d5e9f2c5cbcdab7649199e74aeb6f" category="paragraph">Vous pouvez examiner les types de données suivants pour faciliter la résolution du problème de capacité.</block>
   <block id="419f3742e6de8e0ec4b22cce005e7630" category="list-text">Plateforme</block>
   <block id="47e9bbb6c6753120f1dd00ed48d96e49" category="list-text">Pays où se trouve l'actif</block>
@@ -35,7 +33,6 @@
   <block id="bd9fba5131fe31e90bfebbe0a6d1fbc4" category="list-text">*Données inactives de niveau* : continuer par <block ref="9cc0dcfcd75c3218b5d225e3ae2afe53" category="inline-link-macro-rx"></block>.</block>
   <block id="e9f46f0dabd9b0a7cb1c344012680279" category="inline-link-macro">En sélectionnant aucune action et en définissant des rappels à vérifier à nouveau</block>
   <block id="40bc28714e5ee6178cf9bc098160d023" category="list-text">*Aucune action nécessaire*: Continuer par <block ref="8a3dfb7bd904e33c9fbc3c16fc228e01" category="inline-link-macro-rx"></block>.</block>
-  <block id="7837519a23fbbe627dab4cf90b3f1f75" category="summary">Le service d'efficacité économique fournit des recommandations pour les systèmes AFF en fonction de la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. Sur cette base, le service présente des recommandations qui répondent aux prévisions de croissance de la capacité et qui sont les plus optimales pour la configuration des actifs.</block>
   <block id="dbaae314ffc8b46919877d02b85696cb" category="doc">Ajoutez de la capacité</block>
   <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">L'une des recommandations peut être d'ajouter de la capacité en ajoutant des tiroirs à votre numéro de série existant.</block>
   <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">Vous pouvez facilement soumettre cette recommandation sous forme de demande de devis ou de demande de propositions d'options alternatives à l'équipe commerciale de NetApp.</block>
@@ -56,18 +53,13 @@
   <block id="528798800bb18a55c8e56e2808e35e26" category="list-text">Examinez la demande de capacité supplémentaire et sélectionnez *confirmer et soumettre*.</block>
   <block id="d452d8a47d94ca7bfae59d96b15e9eae" category="paragraph">La page État de planification de la capacité s'affiche.</block>
   <block id="9f5f33b1411cb7c6db0f15c4c16a6ab2" category="list-text">Vérifiez l'état sur la page État de planification de la capacité.</block>
-  <block id="7a94cf85dfd3268967bf9069efa1054a" category="summary">Le service de planification de la capacité d'efficacité économique NetApp BlueXP utilise l'IA pour prévoir la croissance des données et faciliter le processus de planification.</block>
   <block id="55d23e178d63a7dfa5b590a6cfdc18fb" category="doc">Examinez et résolvez les problèmes de capacité</block>
-  <block id="d7c0a254666664674f9ad6c2fd88f48c" category="paragraph">La planification de la capacité consiste à identifier les zones de faible capacité de votre environnement, actuelles et prévues. Le service d'efficacité économique NetApp BlueXP utilise l'IA pour prévoir la croissance des données et faciliter le processus de planification. Le service de l'efficacité économique identifie les zones à faible capacité de votre environnement et fournit des recommandations sur les façons de résoudre les problèmes.</block>
-  <block id="9c4e7ead2b21c6e44b58ba76144a6bc0" category="paragraph">Le service d'efficacité économique vous permet d'atteindre les objectifs suivants :</block>
   <block id="2aeee6306a492b96e1d8d773a16fa4ee" category="list-text"><block ref="2aeee6306a492b96e1d8d773a16fa4ee" category="inline-link-macro-rx"></block></block>
   <block id="2ca27275f5817357f9b49fd4c102cd3c" category="list-text"><block ref="2ca27275f5817357f9b49fd4c102cd3c" category="inline-link-macro-rx"></block></block>
   <block id="80b117d13aeb1c0337cca44c4f432522" category="inline-link-macro">Basculez les données inactives vers le stockage cloud et libérez du stockage</block>
   <block id="6cb6b275b6a21c610984fdd0576d0985" category="list-text"><block ref="6cb6b275b6a21c610984fdd0576d0985" category="inline-link-macro-rx"></block></block>
   <block id="05540742fefd5843712472ea58001fdc" category="inline-link-macro">Sélectionnez aucune action et définissez des rappels pour les vérifier à nouveau</block>
   <block id="6aa45f993ae45f131003be16c292fcd5" category="list-text"><block ref="6aa45f993ae45f131003be16c292fcd5" category="inline-link-macro-rx"></block></block>
-  <block id="eb3a8afdf803a31161961d8982502b08" category="summary">Le service d'efficacité économique fournit des recommandations basées sur la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. De ce fait, le service présente des recommandations qui répondent à la croissance de la capacité prévue et qui sont les plus optimales pour la configuration des actifs. L'une des recommandations peut être de basculer des données inactives vers un stockage cloud pour libérer de la capacité. Cette recommandation établit la connexion avec NetApp Cloud Tiering, un autre service BlueXP.</block>
-  <block id="1a8a8a7e27fe860678d8b003caf26f05" category="paragraph">De là, vous pouvez hiérarchiser les données et revenir facilement au service d'efficacité économique pour prendre des mesures sur d'autres systèmes.</block>
   <block id="6dfd2eb5249f90aef474d30566fea034" category="paragraph">Le processus de hiérarchisation du cloud comprend les processus suivants :</block>
   <block id="9af7e4f81c745160ce0a259f7f43f225" category="list-text">Déployez un connecteur</block>
   <block id="6cb8e477737f0dd67265264d19cc8455" category="list-text">Découvrez le cluster</block>
@@ -76,7 +68,6 @@
   <block id="b1c12bf1b4a873a9ed5a66b14f7cd39d" category="list-text">Les étapes suivantes dépendent si vous avez déjà déployé un connecteur BlueXP et que le cluster est découvert :</block>
   <block id="b19f531963f3253bc079919cec81fe72" category="inline-link">Comment créer un connecteur</block>
   <block id="c5fbee6586294d81141f8dd158707985" category="inline-link">Découvrez les clusters ONTAP sur site</block>
-  <block id="4157cf1f48ce41b76be09f4c1cfaa83a" category="paragraph">Le service d'efficacité économique établit la connexion avec le service NetApp Cloud Tiering, un autre service NetApp BlueXP.</block>
   <block id="fc76487e321b8bd0278a190f0b8bd401" category="list-text">Sélectionnez *Ajouter un connecteur*.</block>
   <block id="cea9f928dfa7f018d5f69d0b3d5fa567" category="list-text">Choisissez un fournisseur de cloud et sélectionnez *Continuer*.</block>
   <block id="6b52a1aec285337477d1fef91d9efaf0" category="list-text">Sélectionnez *Continuer* ou *passer au déploiement*.</block>
@@ -91,25 +82,19 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">Sélectionnez *Enregistrer*.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Résultat</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">Après ce délai, le risque apparaît à nouveau dans la liste des risques.</block>
-  <block id="6fd2905ce26598c7ca2e328de094f8e5" category="summary">La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. Le service NetApp BlueXP Economic Efficiency vous aide à identifier les clusters affichant une faible capacité, à vérifier la capacité actuelle et prévue des clusters et à examiner l'utilisation du processeur, les performances des IOPS et la performance de la latence pour déterminer les opportunités de résolution des problèmes de capacité.</block>
   <block id="0a0860e9870b3d9fd1d712f2215ee3c8" category="doc">Service d'efficacité économique</block>
   <block id="4386eb2b71427fcf0dcb5cf90640a361" category="doc">Conditions préalables à l'efficacité économique</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">Commencez par vérifier que votre environnement opérationnel, votre connexion, votre accès au réseau et votre navigateur Web sont opérationnels.</block>
-  <block id="6e33118c0758c11cb03b9f31a5db08d3" category="paragraph">Pour utiliser le service d'efficacité économique, vous devez vous assurer que votre environnement répond à toutes les exigences.</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">Votre environnement doit respecter toutes les exigences de BlueXP, y compris une connexion et un accès au réseau à partir d'un navigateur Web.</block>
   <block id="5b13c2584f8e7be6ddae81fa76b103bc" category="inline-link">Checklist de mise en route</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">Vous devez disposer d'identifiants d'accès aux clusters.</block>
   <block id="04346ae081b15c5b07fe9620a0a0fae7" category="list-text">Bien qu'il ne s'agisse pas d'une exigence, il est utile que le connecteur BlueXP soit en place et activé et que le système ONTAP soit détecté. Si ce n'est pas le cas, le service vous guide tout au long de ces processus.</block>
   <block id="dddec778c9cbb4c6fc3917f4b8148b57" category="list-text">Si vous prévoyez de transférer les données inactives vers un stockage cloud, assurez-vous que le cluster est éligible selon la licence.</block>
-  <block id="12ca8dbfdaa9b4c56f8d85ad7f138c07" category="summary">Commencez à utiliser le service NetApp BlueXP Economic Efficiency en quelques étapes.</block>
-  <block id="814007407d7133fd410cd37870c6383d" category="doc">Démarrage rapide pour le service d'efficacité économique</block>
-  <block id="830b7e45f35fe0e36e3c481588b84752" category="paragraph">Voici un aperçu des étapes à suivre pour démarrer avec le service d'efficacité économique NetApp BlueXP. Les liens de chaque étape vous mènent à une page qui fournit plus de détails.</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">Une seule</block>
   <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> Passer en revue les prérequis</block>
   <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">Assurez-vous que votre environnement répond à ces exigences</block>
   <block id="ced4b743323450a7e7e56480339ef345" category="paragraph"><block ref="3ad9f09af84a8cf38e8d4dc8f0c46658" category="inline-link-macro-rx"></block>.</block>
   <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">Deux</block>
-  <block id="6ddbf50e64bc490c013bb79d7ef91db9" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> Configurez le service d'efficacité économique</block>
   <block id="cc6726e02ea7bc25f1ed413652107bdb" category="inline-link-macro">Suivez les étapes de configuration du service</block>
   <block id="60766643470eca71a0ef352b62e0a838" category="paragraph"><block ref="6ae54feb46cd36301fb1386a964f0be6" category="inline-link-macro-rx"></block>.</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">Trois</block>
@@ -122,43 +107,27 @@
   <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">Si vous le souhaitez, définissez des rappels pour les vérifier à nouveau</block>
   <block id="a2e5f6092d9ac64bb72c17d7c802989e" category="list-text"><block ref="13cddad928a54274073f8e0ed02030a0" category="inline-link-macro-rx"></block>.</block>
   <block id="be0b6ed69c50cea3a8eb8459821a798d" category="summary">Le service de planification de la capacité identifie les clusters dont la capacité est actuellement faible ou prévue et vous fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).</block>
-  <block id="896933ed48cce67ed4087b430ddb16f8" category="doc">Découvrez le service d'efficacité économique</block>
-  <block id="f3109b5786bfed2070b36be8bc1bb35b" category="paragraph">La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. Le service NetApp BlueXP Economic Efficiency peut vous aider à atteindre les objectifs suivants :</block>
   <block id="85c4de1369982661e4d2c41a22fe13dc" category="list-text">Identifiez les clusters affichant une faible capacité.</block>
   <block id="3113edbae766b82815a0418083057f40" category="list-text">Examinez les clusters pour vérifier la capacité actuelle et prévue.</block>
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">Examinez l'utilisation du processeur, les performances d'IOPS et la latence pour identifier les opportunités de résolution des problèmes de capacité.</block>
-  <block id="13613fbfa0f9baf4b725461c7bf3ba1d" category="paragraph">Le service Economic Efficiency identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Si vous choisissez d'ajouter de la capacité, une demande contenant des recommandations détaillées vous est transmise, ainsi qu'un représentant NetApp. Cette demande comprend les détails nécessaires pour faciliter la sélection de la capacité et la commande.</block>
   <block id="73392ce9486f187520554de1730eae2e" category="paragraph">Le service est accessible dans BlueXP sous la catégorie *gouvernance*.</block>
-  <block id="eb97665ccb9a1430b5b8fafe9cf9b6e2" category="paragraph">Le service d'efficacité économique s'applique uniquement aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).</block>
-  <block id="1d3b9444d74a886014d55cf56d90a53b" category="section-title">Avantages du service d'efficacité économique</block>
-  <block id="a40a4a4bcba7c86c782a83a19a300da5" category="paragraph">Le service d'efficacité économique offre les avantages suivants :</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">Permet d'obtenir facilement des capacités supplémentaires</block>
   <block id="c0990af989044900779cae7e6e736849" category="list-text">Conseiller de confiance et recommandations pour gérer les problèmes de capacité dans votre environnement</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">Réduction du temps passé à planifier un stockage supplémentaire</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Le coût</block>
   <block id="9c303ae8a4f6a61eadb0ef12c9577f18" category="paragraph">NetApp ne vous facture pas pour l'utilisation du service. Si vous décidez de basculer les données inactives vers un stockage cloud, vous devez consulter votre fournisseur cloud pour connaître les frais applicables.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">Cette FAQ peut vous aider si vous cherchez juste une réponse rapide à une question.</block>
-  <block id="6c70937c0115ab4e2f5ecd94f5e038b6" category="doc">Foire aux questions pour le service de l'efficacité économique</block>
-  <block id="13c245e51d00919eef42b49d6c2da703" category="section-title">Accès au service efficacité économique</block>
-  <block id="420272ee97f66624030c76b88979c8fa" category="paragraph">*Qu'est-ce que l'URL BlueXP Economic Efficiency?*</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">Licences</block>
-  <block id="11b2a6fa33a249973c791f6b3a969986" category="paragraph">*Avez-vous besoin d'une licence pour utiliser le service d'efficacité économique?*</block>
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">Aucun fichier de licence NetApp n'est requis.</block>
-  <block id="13a63836c6280ee1ca39e9108df442b6" category="summary">Commencez à utiliser le service efficacité économique en accédant au service de BlueXP.</block>
-  <block id="1f4141d38268b548a3f91a9a2147767a" category="doc">Accédez au service économique sur BlueXP</block>
-  <block id="521fdcb140f7eb926460188fda7cefad" category="paragraph">Vous utilisez NetApp BlueXP pour vous connecter au service d'efficacité économique.</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">En savoir plus sur la connexion</block>
   <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">Console BlueXP</block>
   <block id="753e3c2055278365db83b605f29d4860" category="paragraph">La page de connexion NetApp BlueXP s'affiche.</block>
   <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">Connectez-vous à BlueXP.</block>
   <block id="7482156833e57efa7b936e9aa5221f5a" category="list-text">Dans le menu de navigation de gauche de BlueXP, sélectionnez *gouvernance* &gt; *efficacité économique*.</block>
-  <block id="b2fd854ce4c040cf08b1916480a414da" category="summary">Pour utiliser le service d'efficacité économique, effectuez quelques étapes pour le configurer.</block>
-  <block id="52c1f76341fb0761166cf4172e9906fa" category="doc">Configurez le service d'efficacité économique</block>
   <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">prérequis</block>
   <block id="90663bb87b6bec4a92a7b1f0dc5b480d" category="list-text">Révision <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> pour vous assurer que votre environnement est prêt.</block>
   <block id="1835d0517fe4ffa8b6a639fa95e369ad" category="list-text">Créez un connecteur dans BlueXP.</block>
   <block id="e676f0c089390ef0b70aea9845c97efa" category="list-text">Découvrez le cluster dans BlueXP.</block>
-  <block id="29410026b0b724e3f95d019d79d9557a" category="paragraph">Vous pouvez créer un connecteur directement dans BlueXP et l'utiliser plus tard dans le service Economic Efficiency. Vous pouvez également créer le connecteur au milieu du processus de résolution des risques.</block>
   <block id="01688a0e15dc71e56383e08c45b474a3" category="paragraph">De la même façon, vous pouvez détecter le cluster à l'avance avec BlueXP ou pendant le processus de résolution des risques.</block>
   <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">Créez un connecteur dans BlueXP</block>
   <block id="0e13adbff2b342064a892a15607f1d16" category="paragraph">Un connecteur BlueXP inclut des informations d'identification pour les machines NetApp ONTAP.</block>
@@ -321,20 +290,15 @@
   <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">Une fois votre compte sur le site de support NetApp, vous pouvez accéder à BlueXP et ajouter ce compte NSS pour les inscriptions futures.</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">Les limitations connues identifient les plates-formes, les périphériques ou les fonctions qui ne sont pas pris en charge par cette version du service ou qui ne fonctionnent pas correctement avec celui-ci.</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Limites</block>
-  <block id="e7fd4798be4c58aeff4887e30c88386c" category="summary">Le service Economic Efficiency identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">Quoi de neuf</block>
-  <block id="a249197e3398d741aca4eb631f3d54d0" category="paragraph">Découvrez les nouveautés du service efficacité économique.</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">02 avril 2023</block>
-  <block id="6a96f2962c3be88d01a2e04f7bb4006f" category="paragraph">Le nouveau service d'efficacité économique identifie les clusters dont la capacité est actuellement faible ou prévue et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire pour les systèmes AFF sur site.</block>
   <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">En savoir plus sur ce nouveau service</block>
   <block id="38532dd1586dac78ea99ce1216e1f352" category="paragraph"><block ref="6e51c6b9ced37d3ad7414d5e4d1ac63a" category="inline-link-macro-rx"></block>.</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Commencez</block>
-  <block id="22d820436c2ac243ecde2a84af9553bb" category="sidebar">Quoi de neuf dans le service d'efficacité économique</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">Démarrage rapide</block>
   <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">Prérequis</block>
   <block id="1da54223aacfae99a4874c0e691e9686" category="sidebar">Connectez-vous au service sur BlueXP</block>
   <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">FAQ</block>
-  <block id="4fcf09e34994b536f76af7d2532f3bea" category="sidebar">Utilisez le service d'efficacité économique</block>
   <block id="bf094ea6ac295bf93e9ed9f735604ae0" category="sidebar">Vérifiez l'état de la capacité</block>
   <block id="bd427205be5a276d634b96c7cf7398b1" category="sidebar">Basculez les données inactives vers le stockage cloud</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs et communauté</block>
@@ -356,4 +320,41 @@
   <block id="d2dadcd80abef33f02b8317102f819f0" category="list-text">Ouvrez un navigateur Web et accédez au<block ref="4d9841a08a6f1c082f5ba73c5d87fcc1" category="inline-link-rx"></block>.</block>
   <block id="32ed92d70b140ee92a015de26f8ca076" category="paragraph">Pour créer un connecteur dans BlueXP avant d'utiliser le service, reportez-vous à la documentation BlueXP qui décrit<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>.</block>
   <block id="d537b3bbd8539d0832f2526fedeaa9c0" category="paragraph">Pour obtenir des instructions avant d'utiliser le service, reportez-vous à la section<block ref="6585a34a169ce9e8b8f4633a3f458722" category="inline-link-rx"></block>.</block>
+  <block id="fbd53e396987285cf235247a34844e9e" category="summary">Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service d'efficacité économique les identifie comme ressources de faible capacité et vous alerte.</block>
+  <block id="8af833df2a0f92402b5b5db4903721da" category="paragraph">Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service d'efficacité économique les identifie comme ressources de faible capacité et vous alerte. De plus, le service d'efficacité économique fournit des recommandations sur la façon de classer les données ou d'obtenir des capacités supplémentaires.</block>
+  <block id="a53148ee8712975fc57be46589bc8da7" category="summary">Le service d'efficacité économique fournit des recommandations pour les systèmes AFF en fonction de la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. Sur cette base, le service présente des recommandations qui répondent aux prévisions de croissance de la capacité et qui sont les plus optimales pour la configuration des actifs.</block>
+  <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">Le service de planification de la capacité d'efficacité économique de NetApp BlueXP utilise l'IA pour prévoir la croissance des données et faciliter le processus de planification.</block>
+  <block id="41da446d1155100dfeb1aed1576bf390" category="paragraph">La planification de la capacité consiste à identifier les zones de faible capacité de votre environnement, actuelles et prévues. Le service d'efficacité économique NetApp BlueXP utilise l'IA pour prévoir la croissance des données et faciliter le processus de planification. Le service d'efficacité économique identifie les zones à faible capacité de votre environnement et fournit des recommandations sur les moyens de résoudre les problèmes.</block>
+  <block id="0a4a0858eb93014667524a512d567db2" category="paragraph">En utilisant le service d'efficacité économique, vous pouvez atteindre ces objectifs :</block>
+  <block id="afb34d950bc4701e1ca377043626dd7f" category="summary">Le service d'efficacité économique fournit des recommandations basées sur la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. De ce fait, le service présente des recommandations qui répondent à la croissance de la capacité prévue et qui sont les plus optimales pour la configuration des actifs. L'une des recommandations peut être de basculer des données inactives vers un stockage cloud pour libérer de la capacité. Cette recommandation établit la connexion avec NetApp Cloud Tiering, un autre service BlueXP.</block>
+  <block id="43a88d3acb500eacf8827be889290b78" category="paragraph">De là, vous pouvez hiérarchiser les données et revenir facilement au service d'efficacité économique pour prendre des mesures sur d'autres systèmes.</block>
+  <block id="17059fe74360229e879a759843201d70" category="paragraph">Le service d'efficacité économique établit la connexion avec le service NetApp Cloud Tiering, un autre service NetApp BlueXP.</block>
+  <block id="8fea032899ecd07fc90802e814c217b4" category="summary">La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. Le service d'efficacité économique NetApp BlueXP vous aide à identifier les clusters affichant une faible capacité, à vérifier la capacité actuelle et prévue des clusters et à vérifier l'utilisation du processeur, les performances des IOPS et la latence pour identifier les opportunités de résolution des problèmes de capacité.</block>
+  <block id="ab64efe8ea6517b4d4f5995878949be8" category="summary">Commencez à exploiter l'efficacité économique de BlueXP en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web.</block>
+  <block id="e15b5e0d1a3f0c5ba311a07635b7e217" category="paragraph">Pour utiliser le service d'efficacité économique, vous devez vous assurer que votre environnement répond à toutes les exigences.</block>
+  <block id="501089da83496a12da7846c949b29a52" category="summary">Commencez à utiliser le service d'efficacité économique NetApp BlueXP en quelques étapes.</block>
+  <block id="f67a49063476dac82e6bea21e4339573" category="doc">Démarrage rapide pour le service d'efficacité économique</block>
+  <block id="b22b3b0df44e737562c6641ace27c49b" category="paragraph">Voici un aperçu des étapes à suivre pour démarrer avec le service d'efficacité économique NetApp BlueXP. Les liens de chaque étape vous mènent à une page qui fournit plus de détails.</block>
+  <block id="aaa9c54233f5e7b76837549c4c1bbc28" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> Mettre en place le service d'efficacité économique</block>
+  <block id="2d6fa3cc18d11dd7de03378659737f52" category="doc">Découvrez le service d'efficacité économique</block>
+  <block id="2ded2a84885e7c50040c1fe60311f4b3" category="paragraph">La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. Le service d'efficacité économique de NetApp BlueXP vous aide à atteindre les objectifs suivants :</block>
+  <block id="7ed6d7b061cb6f992eb982a9f7ba88bc" category="paragraph">Le service d'efficacité économique identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Si vous choisissez d'ajouter de la capacité, une demande contenant des recommandations détaillées vous est transmise, ainsi qu'un représentant NetApp. Cette demande comprend les détails nécessaires pour faciliter la sélection de la capacité et la commande.</block>
+  <block id="b2b088cef491a4f1c797cf1b3e120387" category="paragraph">Le service d'efficacité économique s'applique uniquement aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).</block>
+  <block id="942ba0f6ea6d830dd4fd89a3a73e6f67" category="section-title">Avantages du service d'efficacité économique</block>
+  <block id="54a0de45d377bd0d1d4a56763b979d36" category="paragraph">Le service d'efficacité économique offre les avantages suivants :</block>
+  <block id="0df5c13966c618a22fbba4fb040d381a" category="doc">Foire aux questions pour le service de l'efficacité économique</block>
+  <block id="88804581e6ce821aa2b70464105e11f8" category="section-title">Accès au service d'efficacité économique</block>
+  <block id="ab56773ec54d1f5da941c2a5911ab633" category="paragraph">*Qu'est-ce que l'URL BlueXP pour l'efficacité économique?*</block>
+  <block id="1dc7bcd22f2ba6af88f86d6438c4cfbf" category="paragraph">*Avez-vous besoin d'une licence pour utiliser le service d'efficacité économique?*</block>
+  <block id="0219b3ff65cf0d583bb7e8912368a1a7" category="summary">Commencez à utiliser le service économique en accédant au service de BlueXP.</block>
+  <block id="6ff6f7363eac188c813717945e80f242" category="doc">Accédez au service économique sur BlueXP</block>
+  <block id="e4ceda68ed2ad1c8b6de4d9499487b31" category="paragraph">Vous utilisez NetApp BlueXP pour vous connecter au service d'efficacité économique.</block>
+  <block id="0abe2c8bae7cad710a4ad886e3ee0d0a" category="summary">Pour utiliser le service d'efficacité économique, effectuez quelques étapes pour le configurer.</block>
+  <block id="3088e97bad860ce6779b76a124c78ae0" category="doc">Mettre en place le service d'efficacité économique</block>
+  <block id="07089c4727f83059c9b5e357d73e88a2" category="paragraph">Vous pouvez créer un connecteur directement dans BlueXP et l'utiliser plus tard dans le service d'efficacité économique. Vous pouvez également créer le connecteur au milieu du processus de résolution des risques.</block>
+  <block id="6f4e3d42913669cfb6fa734eeb1bb64a" category="summary">Le service d'efficacité économique identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).</block>
+  <block id="5e7b046dc9daacb3eb94996563205d67" category="paragraph">Découvrez les nouveautés du service d'efficacité économique.</block>
+  <block id="754eb66320ee2d41917d70a6a0cd125b" category="paragraph">Le nouveau service d'efficacité économique identifie les clusters dont la capacité est actuellement faible ou prévue et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire pour les systèmes AFF sur site.</block>
+  <block id="0d444fc1d4812b98559f9cc39f5fd31f" category="sidebar">Ce qui est nouveau dans le service de l'efficacité économique</block>
+  <block id="13a808531c1289bcc88bebc003bfcc72" category="sidebar">Utilisez le service d'efficacité économique</block>
 </blocks>

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning 
-summary: Commencez à utiliser BlueXP Economic Efficiency en vérifiant la prise en charge de votre environnement, de votre accès réseau, de votre connexion et de votre navigateur Web. 
+summary: 'Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service d"efficacité économique les identifie comme ressources de faible capacité et vous alerte.' 
 ---
 = Vérifiez l'état de planification de la capacité
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Commencez à utiliser BlueXP Economic Efficiency en vérifiant la prise
 
 
 [role="lead"]
-Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service Economic Efficiency les identifie comme ressources de faible capacité et vous alerte. De plus, le service d'efficacité économique fournit des recommandations pour déterminer si vous devez classer les données par niveau ou obtenir de la capacité supplémentaire.
+Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service d'efficacité économique les identifie comme ressources de faible capacité et vous alerte. De plus, le service d'efficacité économique fournit des recommandations sur la façon de classer les données ou d'obtenir des capacités supplémentaires.
 
 Vous pouvez examiner les types de données suivants pour faciliter la résolution du problème de capacité.
 

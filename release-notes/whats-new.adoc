@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: 'Le service Economic Efficiency identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
+summary: 'Le service d"efficacité économique identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
 ---
 = Quoi de neuf
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 'Le service Economic Efficiency identifie les clusters dont la capacit�
 
 
 [role="lead"]
-Découvrez les nouveautés du service efficacité économique.
+Découvrez les nouveautés du service d'efficacité économique.
 
 
 
