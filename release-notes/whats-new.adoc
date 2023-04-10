@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: 'Le service d"efficacité économique identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
+summary: 'Le service d"optimisation de l"efficacité économique identifie les ressources dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
 ---
 = Quoi de neuf
 :hardbreaks:
@@ -18,6 +18,6 @@ Découvrez les nouveautés du service d'efficacité économique.
 
 == 02 avril 2023
 
-Le nouveau service d'efficacité économique identifie les clusters dont la capacité est actuellement faible ou prévue et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire pour les systèmes AFF sur site.
+Le nouveau service d'efficacité économique identifie les actifs de stockage dont la capacité est faible actuelle ou prévue et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire pour les systèmes AFF sur site.
 
 link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["En savoir plus sur ce nouveau service"].

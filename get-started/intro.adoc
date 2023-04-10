@@ -14,12 +14,12 @@ summary: 'Le service de planification de la capacité identifie les clusters don
 [role="lead"]
 La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. Le service d'efficacité économique de NetApp BlueXP vous aide à atteindre les objectifs suivants :
 
-* Identifiez les clusters affichant une faible capacité.
-* Examinez les clusters pour vérifier la capacité actuelle et prévue.
+* Identifiez dans votre environnement les ressources de stockage présentant des capacités faibles.
+* Examinez les actifs pour vérifier la capacité actuelle et prévue.
 * Examinez l'utilisation du processeur, les performances d'IOPS et la latence pour identifier les opportunités de résolution des problèmes de capacité.
 
 
-Le service d'efficacité économique identifie les clusters dont la capacité est actuellement ou prévue basse et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Si vous choisissez d'ajouter de la capacité, une demande contenant des recommandations détaillées vous est transmise, ainsi qu'un représentant NetApp. Cette demande comprend les détails nécessaires pour faciliter la sélection de la capacité et la commande.
+Le service d'optimisation de l'efficacité économique identifie les actifs de stockage dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Si vous choisissez d'ajouter de la capacité, une demande contenant des recommandations détaillées vous est transmise, ainsi qu'un représentant NetApp. Cette demande comprend les détails nécessaires pour faciliter la sélection de la capacité et la commande.
 
 Le service est accessible dans BlueXP sous la catégorie *gouvernance*.
 

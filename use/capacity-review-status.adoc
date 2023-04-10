@@ -12,7 +12,7 @@ summary: 'Si vos clusters sont actuellement inférieurs ou prévus pour être in
 
 
 [role="lead"]
-Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service d'efficacité économique les identifie comme ressources de faible capacité et vous alerte. De plus, le service d'efficacité économique fournit des recommandations sur la façon de classer les données ou d'obtenir des capacités supplémentaires.
+Si les actifs de stockage de votre environnement sont actuellement inférieurs ou prévus au seuil de capacité de 970 %, le service d'efficacité économique les identifie comme ressources de faible capacité et vous alerte. De plus, le service d'efficacité économique fournit des recommandations sur la façon de classer les données ou d'obtenir des capacités supplémentaires.
 
 Vous pouvez examiner les types de données suivants pour faciliter la résolution du problème de capacité.
 
