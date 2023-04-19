@@ -4,7 +4,7 @@ permalink: get-started/quick-start.html
 keywords: how to get started with bluexp economic efficiency, economic efficiency quick start, capacity planning 
 summary: 'Commencez à utiliser le service d"efficacité économique NetApp BlueXP en quelques étapes.' 
 ---
-= Démarrage rapide pour le service d'efficacité économique
+= Démarrage rapide pour optimiser l'efficacité économique de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: 'Commencez à utiliser le service d"efficacité économique NetApp Blue
 
 
 [role="lead"]
-Voici un aperçu des étapes à suivre pour démarrer avec le service d'efficacité économique NetApp BlueXP. Les liens de chaque étape vous mènent à une page qui fournit plus de détails.
+Voici les étapes nécessaires pour démarrer avec l'efficacité économique de BlueXP. Les liens de chaque étape vous mènent à une page qui fournit plus de détails.
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Une seule"] Passer en revue les prérequis
 [role="quick-margin-para"]

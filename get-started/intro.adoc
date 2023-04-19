@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/intro.html 
 keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp 
-summary: 'Le service de planification de la capacité identifie les clusters dont la capacité est actuellement faible ou prévue et vous fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
+summary: 'Le service BlueXP Economic Efficiency identifie les clusters qui ont une faible capacité actuelle ou prévue et vous fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
 ---
-= Découvrez le service d'efficacité économique
+= Découvrez l'efficacité économique de BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,24 +12,24 @@ summary: 'Le service de planification de la capacité identifie les clusters don
 
 
 [role="lead"]
-La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. Le service d'efficacité économique de NetApp BlueXP vous aide à atteindre les objectifs suivants :
+La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. L'efficacité économique de BlueXP peut vous aider à atteindre les objectifs suivants :
 
 * Identifiez dans votre environnement les ressources de stockage présentant des capacités faibles.
 * Examinez les actifs pour vérifier la capacité actuelle et prévue.
 * Examinez l'utilisation du processeur, les performances d'IOPS et la latence pour identifier les opportunités de résolution des problèmes de capacité.
 
 
-Le service d'optimisation de l'efficacité économique identifie les actifs de stockage dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Si vous choisissez d'ajouter de la capacité, une demande contenant des recommandations détaillées vous est transmise, ainsi qu'un représentant NetApp. Cette demande comprend les détails nécessaires pour faciliter la sélection de la capacité et la commande.
+L'efficacité économique BlueXP identifie les ressources de stockage dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Si vous choisissez d'ajouter de la capacité, une demande contenant des recommandations détaillées vous est transmise, ainsi qu'un représentant NetApp. Cette demande comprend les détails nécessaires pour faciliter la sélection de la capacité et la commande.
 
 Le service est accessible dans BlueXP sous la catégorie *gouvernance*.
 
-Le service d'efficacité économique s'applique uniquement aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).
+L'efficacité économique de BlueXP s'applique uniquement aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).
 
 
 
-== Avantages du service d'efficacité économique
+== Avantages de l'efficacité économique de BlueXP
 
-Le service d'efficacité économique offre les avantages suivants :
+L'efficacité économique de BlueXP offre les avantages suivants :
 
 * Permet d'obtenir facilement des capacités supplémentaires
 * Conseiller de confiance et recommandations pour gérer les problèmes de capacité dans votre environnement

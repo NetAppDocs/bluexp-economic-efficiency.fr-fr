@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
-keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: 'Le service d"optimisation de l"efficacité économique identifie les ressources dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
+keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
+summary: 'L"efficacité économique BlueXP identifie les ressources dont la capacité est faible actuelle ou prévue et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).' 
 ---
 = Quoi de neuf
 :hardbreaks:
@@ -12,12 +12,12 @@ summary: 'Le service d"optimisation de l"efficacité économique identifie les r
 
 
 [role="lead"]
-Découvrez les nouveautés du service d'efficacité économique.
+Découvrez les nouveautés de l'efficacité économique de BlueXP.
 
 
 
 == 02 avril 2023
 
-Le nouveau service d'efficacité économique identifie les actifs de stockage dont la capacité est faible actuelle ou prévue et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire pour les systèmes AFF sur site.
+Le nouveau service d'efficacité économique BlueXP identifie les ressources de stockage dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire pour les systèmes AFF sur site.
 
-link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["En savoir plus sur ce nouveau service"].
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["Découvrez l'efficacité économique de BlueXP"].

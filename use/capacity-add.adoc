@@ -12,7 +12,7 @@ summary: 'Le service d"efficacité économique fournit des recommandations pour 
 
 
 [role="lead"]
-Le service d'efficacité économique fournit des recommandations pour les systèmes AFF en fonction de la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. Sur cette base, le service présente des recommandations qui répondent aux prévisions de croissance de la capacité et qui sont les plus optimales pour la configuration des actifs.
+L'efficacité économique BlueXP fournit des recommandations pour les systèmes AFF en fonction de la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. Sur cette base, le service présente des recommandations qui répondent aux prévisions de croissance de la capacité et qui sont les plus optimales pour la configuration des actifs.
 
 L'une des recommandations peut être d'ajouter de la capacité en ajoutant des tiroirs à votre numéro de série existant.
 

@@ -12,9 +12,9 @@ summary: 'Le service de planification de la capacité d"efficacité économique 
 
 
 [role="lead"]
-La planification de la capacité consiste à identifier les zones de faible capacité de votre environnement, actuelles et prévues. Le service d'efficacité économique NetApp BlueXP utilise l'IA pour prévoir la croissance des données et faciliter le processus de planification. Le service d'efficacité économique identifie les zones à faible capacité de votre environnement et fournit des recommandations sur les moyens de résoudre les problèmes.
+La planification de la capacité consiste à identifier les zones de faible capacité de votre environnement, actuelles et prévues. L'efficacité économique de BlueXP, qui utilise l'IA, prévoit la croissance des données pour faciliter le processus de planification. Le service d'efficacité économique identifie les zones à faible capacité de votre environnement et fournit des recommandations sur les moyens de résoudre les problèmes.
 
-En utilisant le service d'efficacité économique, vous pouvez atteindre ces objectifs :
+L'efficacité économique de BlueXP vous permet d'atteindre ces objectifs :
 
 * link:../use/capacity-review-status.html["Vérifiez l'état de planification de la capacité"]
 * link:../use/capacity-add.html["Ajoutez de la capacité"]
