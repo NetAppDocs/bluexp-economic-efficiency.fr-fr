@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-tier-data.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
-summary: 'Le service d"efficacité économique BlueXP fournit des recommandations basées sur la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. De ce fait, le service présente des recommandations qui répondent à la croissance de la capacité prévue et qui sont les plus optimales pour la configuration des actifs. L"une des recommandations peut être de basculer des données inactives vers un stockage cloud pour libérer de la capacité. Cette recommandation établit la connexion avec NetApp Cloud Tiering, un autre service BlueXP.' 
+summary: 'Le service d"efficacité économique BlueXP fournit des recommandations basées sur la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. De ce fait, le service présente des recommandations qui répondent à la croissance de la capacité prévue et qui sont les plus optimales pour la configuration des actifs. L"une des recommandations peut être de basculer des données inactives vers un stockage cloud pour libérer de la capacité. Cette recommandation établit la connexion au Tiering BlueXP, un autre service BlueXP.' 
 ---
 = Basculez les données inactives vers le stockage cloud et libérez du stockage
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 'Le service d"efficacité économique BlueXP fournit des recommandation
 
 
 [role="lead"]
-L'efficacité économique de BlueXP fournit des recommandations basées sur la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. De cette façon, le service présente des recommandations qui répondent à la croissance de la capacité prévue et qui sont les plus optimales pour la configuration des actifs de stockage. L'une des recommandations peut être de basculer des données inactives vers un stockage cloud pour libérer de la capacité. Cette recommandation établit la connexion avec le Tiering NetApp BlueXP (Cloud Tiering), un autre service BlueXP.
+L'efficacité économique de BlueXP fournit des recommandations basées sur la croissance prévue des données. Vous pouvez accepter la prévision ou saisir votre propre prévision. De cette façon, le service présente des recommandations qui répondent à la croissance de la capacité prévue et qui sont les plus optimales pour la configuration des actifs de stockage. L'une des recommandations peut être de basculer des données inactives vers un stockage cloud pour libérer de la capacité. Cette recommandation établit la connexion au Tiering NetApp BlueXP, un autre service BlueXP.
 
 Puis procédez au Tiering des données et revenez facilement à l'efficacité économique de BlueXP pour prendre des mesures sur d'autres systèmes.
 
@@ -29,8 +29,8 @@ Le processus de hiérarchisation du cloud comprend les processus suivants :
 . Sélectionnez *Tier données inactives*.
 . Les étapes suivantes dépendent si vous avez déjà déployé un connecteur BlueXP et que le cluster est découvert :
 +
-** Si vous devez déployer le connecteur BlueXP, reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["Comment créer un connecteur"^]. Sinon, si vous avez déjà déployé le connecteur, l'option de déploiement du connecteur n'apparaît pas.
-** Si le service doit détecter le cluster, reportez-vous à la section https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Découvrez les clusters ONTAP sur site"^]. Sinon, si le cluster a déjà été découvert, l'option de détection du cluster n'apparaît pas.
+** Si vous devez déployer le connecteur BlueXP, reportez-vous à la documentation BlueXP qui décrit https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Comment créer un connecteur"^]. Sinon, si vous avez déjà déployé le connecteur, l'option de déploiement du connecteur n'apparaît pas.
+** Si le service doit détecter le cluster, reportez-vous à la section https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Découvrez les clusters ONTAP sur site"^]. Sinon, si le cluster a déjà été découvert, l'option de détection du cluster n'apparaît pas.
 
 
 +
@@ -44,6 +44,6 @@ Après le déploiement d'un connecteur, le Tiering BlueXP détecte le cluster, s
 
 . Une fois le cluster détecté, configurez la hiérarchisation.
 +
-Pour plus d'informations sur la hiérarchisation, reportez-vous à la section https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["Documentation sur le Tiering BlueXP"^].
+Pour plus d'informations sur la hiérarchisation, reportez-vous à la section https://docs.netapp.com/us-en/bluexp-tiering/index.html["Documentation sur le Tiering BlueXP"^].
 
 
