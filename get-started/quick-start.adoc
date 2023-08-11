@@ -16,19 +16,19 @@ Voici les étapes nécessaires pour démarrer avec l'efficacité économique de 
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Une seule"] Passer en revue les prérequis
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["Assurez-vous que votre environnement répond à ces exigences"^].
+link:../get-started/prerequisites.html["Assurez-vous que votre environnement répond à ces exigences"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Deux"] Mettre en place le service d'efficacité économique
 [role="quick-margin-para"]
-link:../get-started/capacity-setup.html["Suivez les étapes de configuration du service"^].
+link:../get-started/capacity-setup.html["Suivez les étapes de configuration du service"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Trois"] Et la suite ?
 [role="quick-margin-para"]
 Après avoir configuré le service, voici ce que vous pourriez faire ensuite.
 
 [role="quick-margin-list"]
-* link:../use/capacity-review-status.html["Vérifiez l'état de planification de la capacité"^].
-* link:../use/capacity-add.html["Ajoutez de la capacité"^].
-* link:../use/capacity-tier-data.html["Basculez les données inactives vers le stockage cloud pour libérer du stockage"^].
-* link:../use/capacity-reminders.html["Si vous le souhaitez, définissez des rappels pour les vérifier à nouveau"^].
+* link:../use/capacity-review-status.html["Vérifiez l'état de planification de la capacité"].
+* link:../use/capacity-add.html["Ajoutez de la capacité"].
+* link:../use/capacity-tier-data.html["Basculez les données inactives vers le stockage cloud pour libérer du stockage"].
+* link:../use/capacity-reminders.html["Si vous le souhaitez, définissez des rappels pour les vérifier à nouveau"].
 
