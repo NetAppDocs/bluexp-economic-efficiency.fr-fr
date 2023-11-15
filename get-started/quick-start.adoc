@@ -27,6 +27,7 @@ link:../get-started/capacity-setup.html["Suivez les étapes de configuration du 
 Après avoir configuré le service, voici ce que vous pourriez faire ensuite.
 
 [role="quick-margin-list"]
+* link:../use/tech-refresh.html["Évaluer la mise à jour technologique"].
 * link:../use/capacity-review-status.html["Vérifiez l'état de planification de la capacité"].
 * link:../use/capacity-add.html["Ajoutez de la capacité"].
 * link:../use/capacity-tier-data.html["Basculez les données inactives vers le stockage cloud pour libérer du stockage"].

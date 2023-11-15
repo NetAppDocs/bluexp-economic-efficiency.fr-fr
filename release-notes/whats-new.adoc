@@ -16,6 +16,12 @@ Découvrez les nouveautés de l'efficacité économique de BlueXP.
 
 
 
+== 08 novembre 2023
+
+Cette version de BlueXP Economic Efficiency comprend une nouvelle option qui permet d'évaluer vos ressources et d'identifier si une mise à jour technologique est recommandée. Le service inclut une nouvelle option de mise à jour technologique dans le menu de navigation de gauche, de nouvelles pages sur lesquelles vous pouvez évaluer vos charges de travail et ressources actuelles, ainsi qu'un rapport qui vous fournit des recommandations.
+
+
+
 == 02 avril 2023
 
 Le nouveau service d'efficacité économique BlueXP identifie les ressources de stockage dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire pour les systèmes AFF sur site.

@@ -1,0 +1,69 @@
+---
+sidebar: sidebar 
+permalink: use/tech-refresh.html 
+keywords: economic efficiency, tech refresh, technology update, hardware assessment 
+summary: 'Si vous disposez de ressources existantes et souhaitez procéder à une évaluation pour déterminer si une mise à jour technologique est recommandée, vous pouvez utiliser l"option de mise à jour technologique d"efficacité économique BlueXP. Le processus évalue vos charges de travail et ressources actuelles et vous fournit des recommandations sur la manière de procéder.' 
+---
+= Obtenez une évaluation de mise à jour technologique
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Si vous disposez de ressources existantes et souhaitez procéder à une évaluation pour déterminer si une mise à jour technologique est recommandée, vous pouvez utiliser l'option de mise à jour technologique d'efficacité économique BlueXP. Le processus évalue vos charges de travail et ressources actuelles et vous fournit des recommandations sur la manière de procéder.
+
+L'évaluation comprend les étapes suivantes :
+
+* Sélectionnez les systèmes à évaluer.
+* Spécifiez vos exigences en matière d'environnements, de types de charges de travail, de capacité, de performances et de budget.
+* Consultez les recommandations concernant les produits et services cloud appropriés susceptibles d'améliorer les performances de votre environnement.
+
+
+Les systèmes sont considérés comme candidats à une mise à jour technologique sur la base des éléments suivants :
+
+* Fin du contrat de support technique imminente
+* Fin de cycle de vie du matériel imminente
+
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *gouvernance* > *efficacité économique* > *mise à jour technologique*.
++
+image:tech-refresh-list.png["Page de mise à jour technologique affichant l'onglet candidats à la mise à jour technologique"]
+
+. Consultez l'onglet *candidats à la mise à jour technologique*, qui répertorie tous les environnements de travail pouvant bénéficier d'une mise à jour technologique.
+. Sélectionnez l'environnement de travail sur lequel vous souhaitez obtenir une évaluation.
+. Sur la droite, sélectionnez *Evaluer l'actualisation*.
+. Dans les options d'actualisation Evaluer, sélectionnez *prendre évaluation*.
+. Sélectionnez le ou les systèmes sur lesquels vous souhaitez effectuer l'évaluation et sélectionnez *Suivant*.
+. Sélectionnez les types d'environnement de votre choix : cloud public, cloud hybride ou sur site.
+. Sélectionnez tous les types de workloads que vous souhaitez gérer : applications stratégiques, data Lakes et workflows multimédias, stockage secondaire, workloads moins stratégiques ou analytique et calcul haute performance.
+. Entrez les besoins en capacité en Tio, faites glisser le curseur sur la valeur ou placez votre curseur sur la valeur dans le curseur et sélectionnez *Suivant*.
+. Sélectionnez les aspects de performances que vous souhaitez gérer : latence la plus faible, IOPS les plus élevées, charges de travail mixtes ou performances non importantes, puis sélectionnez *Suivant*.
+. Entrez un budget en dollars US, faites glisser le curseur jusqu'à la valeur ou placez votre curseur sur la valeur dans le curseur et sélectionnez *Suivant*.
++
+Un ensemble de recommandations s'affiche dans différents onglets pour les options que vous avez choisies.
+
+. Passez en revue les recommandations.
+. Pour télécharger un PDF des recommandations, sélectionnez *Télécharger*.
+. Pour communiquer avec un représentant commercial NetApp au sujet des recommandations, sélectionnez *contacter le service commercial*.
++
+Une page Web vous montre les options que vous pouvez choisir pour contacter un représentant commercial NetApp.
+
+
+
+
+
+== Consultez les évaluations des mises à jour technologiques déjà effectuées
+
+Peut-être aimeriez-vous passer en revue les évaluations des mises à jour technologiques déjà effectuées, puis les recommandations une nouvelle fois.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP, sélectionnez *gouvernance* > *efficacité économique* > *mise à jour technologique*.
+. Sélectionnez l'onglet *Tech Refresh candidates*, qui répertorie tous les systèmes sur lesquels vous avez effectué une évaluation de mise à jour technologique. Ensuite, sélectionnez *Afficher l'action* sur la ligne pour voir les évaluations et les recommandations pour ce système.
++
+Vous pouvez également sélectionner la ligne sur laquelle « action entreprise » s'affiche et sélectionner *Afficher* pour afficher les détails de ce système.
+
+. Affichez les recommandations d'actualisation.
+

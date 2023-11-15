@@ -86,10 +86,8 @@
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">Examinez l'utilisation du processeur, les performances d'IOPS et la latence pour identifier les opportunités de résolution des problèmes de capacité.</block>
   <block id="73392ce9486f187520554de1730eae2e" category="paragraph">Le service est accessible dans BlueXP sous la catégorie *gouvernance*.</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">Permet d'obtenir facilement des capacités supplémentaires</block>
-  <block id="c0990af989044900779cae7e6e736849" category="list-text">Conseiller de confiance et recommandations pour gérer les problèmes de capacité dans votre environnement</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">Réduction du temps passé à planifier un stockage supplémentaire</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Le coût</block>
-  <block id="9c303ae8a4f6a61eadb0ef12c9577f18" category="paragraph">NetApp ne vous facture pas pour l'utilisation du service. Si vous décidez de basculer les données inactives vers un stockage cloud, vous devez consulter votre fournisseur cloud pour connaître les frais applicables.</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">Cette FAQ peut vous aider si vous cherchez juste une réponse rapide à une question.</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">Licences</block>
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">Aucun fichier de licence NetApp n'est requis.</block>
@@ -222,7 +220,6 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Communauté NetApp</block>
   <block id="e7719a97642051ee358e5d15cf1ab284" category="sidebar">Blog NetApp Cloud Tiering</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Webinaires sur le cloud</block>
-  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toute la documentation BlueXP</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Connaissances et support</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Quoi de neuf</block>
@@ -247,11 +244,7 @@
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">Conditions préalables à l'efficacité économique de BlueXP</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">Commencez à profiter de l'efficacité économique de BlueXP en accédant au service de BlueXP.</block>
   <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">Accédez à l'efficacité économique de BlueXP</block>
-  <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">Le service BlueXP Economic Efficiency identifie les clusters qui ont une faible capacité actuelle ou prévue et vous fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).</block>
   <block id="df213f3ab79b8da9c8b1a9aa66a49358" category="doc">Découvrez l'efficacité économique de BlueXP</block>
-  <block id="4174e7acaa0d2a79ceca6bdc82e5321c" category="paragraph">La planification de la capacité est essentielle pour éviter les temps d'indisponibilité inutiles liés à la faible capacité des systèmes. L'efficacité économique de BlueXP peut vous aider à atteindre les objectifs suivants :</block>
-  <block id="a83631a3d8ab10baf32d9bd94cb9b5d3" category="paragraph">L'efficacité économique BlueXP identifie les ressources de stockage dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Si vous choisissez d'ajouter de la capacité, une demande contenant des recommandations détaillées vous est transmise, ainsi qu'un représentant NetApp. Cette demande comprend les détails nécessaires pour faciliter la sélection de la capacité et la commande.</block>
-  <block id="606b72f9a7450d39e6e110c4edcdbd88" category="paragraph">L'efficacité économique de BlueXP s'applique uniquement aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).</block>
   <block id="6c4ccbebd2c1bc279ee2cb6f8f6b41f9" category="section-title">Avantages de l'efficacité économique de BlueXP</block>
   <block id="fa994af86d0c0087b7eee14a622f20f6" category="paragraph">L'efficacité économique de BlueXP offre les avantages suivants :</block>
   <block id="b7ec73ab5a17a83ab2fe26bc232073c2" category="summary">Pour profiter de l'efficacité économique de BlueXP, effectuez quelques étapes de configuration.</block>
@@ -367,4 +360,55 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Bénéficiez du support pour les services de fichiers d'un fournisseur cloud</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Pour obtenir de l'aide concernant un service de fichiers d'un fournisseur cloud, son infrastructure ou toute solution utilisant le service, consultez la section « obtention d'aide » de la documentation BlueXP associée à ce produit.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Pour bénéficier du support technique spécifique à BlueXP et à ses solutions et services de stockage, utilisez les options de support décrites ci-dessous.</block>
+  <block id="f0e817cb84a49a26db71d640356019f4" category="inline-link-macro">Évaluer la mise à jour technologique</block>
+  <block id="ac97b132749b374b068a120e488fcd0e" category="list-text"><block ref="858757337543e4b0b3edb61576007bac" category="inline-link-macro-rx"></block>.</block>
+  <block id="e5871941005696021ad600fa37da85f1" category="summary">Le service BlueXP Economic Efficiency identifie les clusters qui ont une faible capacité actuelle ou prévue et vous fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Le service fournit également des recommandations de mise à jour technologique sur les systèmes qui approchent de leur fin de vie.</block>
+  <block id="04d4502244c1b78fc398e2ab854757d1" category="paragraph">L'efficacité économique de BlueXP évalue deux domaines essentiels de votre environnement : vos ressources de stockage avec une capacité faible actuelle ou prévue, et vos systèmes qui approchent de la fin de vie. Le service fournit des recommandations sur le Tiering des données ou une capacité supplémentaire (pour les systèmes AFF) et des options de mise à jour technologique qui répondent aux besoins de votre entreprise.</block>
+  <block id="c5eed8523c59be7e7055502368d7c8c9" category="paragraph">L'efficacité économique de BlueXP peut vous aider à atteindre les objectifs suivants.</block>
+  <block id="9875b19dee665bb875b719b9e9ae8af9" category="paragraph">*Planification des capacités*</block>
+  <block id="a75c21b3028c89c7a9ba2ea318233515" category="list-text">Obtenez des recommandations pour l'extension de la capacité adaptée à votre environnement.</block>
+  <block id="b4b8b4721f6971106929030c2ebeed9e" category="paragraph">La planification de la capacité de l'efficacité économique BlueXP ne s'applique qu'aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).</block>
+  <block id="72437c9f19c075990b00e9de0e1a44b8" category="paragraph">*Évaluation de la mise à jour technologique*</block>
+  <block id="b8f192587f9fb6aabeab974d20b80bb3" category="list-text">Consultez la liste des systèmes qui approchent de leur fin de vie ou d'autres événements du cycle de vie.</block>
+  <block id="9d32ad95cd61231af88e0c366f0ded5f" category="list-text">Examinez une évaluation de votre environnement de travail actuel et obtenez des recommandations sur les options de mise à jour technologique qui répondent à vos exigences de charge de travail, de capacité, de performances et de budget.</block>
+  <block id="c75d78ac539015a339e4aa9720ca729e" category="inline-image-macro">Diagramme du processus de mise à jour technologique dans l'efficacité économique de BlueXP</block>
+  <block id="c814cc88c080268f66afab5af1deb9d4" category="paragraph"><block ref="c814cc88c080268f66afab5af1deb9d4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">Identifie les systèmes qui approchent des événements de cycle de vie pour vous aider à planifier une mise à jour technologique</block>
+  <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">Il propose des recommandations de votre conseiller de confiance pour résoudre les problèmes de capacité dans votre environnement</block>
+  <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp ne vous facture pas pour l'utilisation du service.</block>
+  <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">Si vous décidez de basculer les données inactives vers un stockage cloud, vous devez consulter votre fournisseur cloud pour connaître les frais applicables.</block>
+  <block id="a456de5363786e290113dc87be0d8c89" category="summary">Si vous disposez de ressources existantes et souhaitez procéder à une évaluation pour déterminer si une mise à jour technologique est recommandée, vous pouvez utiliser l'option de mise à jour technologique d'efficacité économique BlueXP. Le processus évalue vos charges de travail et ressources actuelles et vous fournit des recommandations sur la manière de procéder.</block>
+  <block id="d596892095124cd33de259bb9c6d8bdf" category="doc">Obtenez une évaluation de mise à jour technologique</block>
+  <block id="a6babd905f3ba163c4818f3a71e85280" category="paragraph">L'évaluation comprend les étapes suivantes :</block>
+  <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">Sélectionnez les systèmes à évaluer.</block>
+  <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">Spécifiez vos exigences en matière d'environnements, de types de charges de travail, de capacité, de performances et de budget.</block>
+  <block id="e0d081d97c8f3ae3f0917ae9aa59bc00" category="list-text">Consultez les recommandations concernant les produits et services cloud appropriés susceptibles d'améliorer les performances de votre environnement.</block>
+  <block id="8aec41c7ba6a608ecc5e3bf075c75955" category="paragraph">Les systèmes sont considérés comme candidats à une mise à jour technologique sur la base des éléments suivants :</block>
+  <block id="ecc292589422afcc5886b7e41ad68c72" category="list-text">Fin du contrat de support technique imminente</block>
+  <block id="af71bdeef415b1f9cee59f7f1b98cfef" category="list-text">Fin de cycle de vie du matériel imminente</block>
+  <block id="251ce3e9a0f2e743c16cf6745026684a" category="list-text">Dans le menu de navigation de gauche de BlueXP, sélectionnez *gouvernance* &gt; *efficacité économique* &gt; *mise à jour technologique*.</block>
+  <block id="18e03fe3f044e3b4882d1224f6b64647" category="inline-image-macro">Page de mise à jour technologique affichant l'onglet candidats à la mise à jour technologique</block>
+  <block id="b19b7d4fec83433fb774ae9faa3d69f6" category="paragraph"><block ref="b19b7d4fec83433fb774ae9faa3d69f6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2a83e88bfd3a6df19edf7074fdf74aa8" category="list-text">Consultez l'onglet *candidats à la mise à jour technologique*, qui répertorie tous les environnements de travail pouvant bénéficier d'une mise à jour technologique.</block>
+  <block id="47215b09178bb5c93fdb16f794a46de0" category="list-text">Sélectionnez l'environnement de travail sur lequel vous souhaitez obtenir une évaluation.</block>
+  <block id="43f608e701fb6e458b2c54b8218f2030" category="list-text">Sur la droite, sélectionnez *Evaluer l'actualisation*.</block>
+  <block id="eb543771e4455ef8aaf16ef1ec6b98c1" category="list-text">Dans les options d'actualisation Evaluer, sélectionnez *prendre évaluation*.</block>
+  <block id="5163b220b10897250bf3e170ce6daa9c" category="list-text">Sélectionnez le ou les systèmes sur lesquels vous souhaitez effectuer l'évaluation et sélectionnez *Suivant*.</block>
+  <block id="c80e774876c4181d84849cf05a456feb" category="list-text">Sélectionnez les types d'environnement de votre choix : cloud public, cloud hybride ou sur site.</block>
+  <block id="cd1d14c41390ca02836f8796ad882779" category="list-text">Sélectionnez tous les types de workloads que vous souhaitez gérer : applications stratégiques, data Lakes et workflows multimédias, stockage secondaire, workloads moins stratégiques ou analytique et calcul haute performance.</block>
+  <block id="4f365c7c2e83cd4835500fe229245f49" category="list-text">Entrez les besoins en capacité en Tio, faites glisser le curseur sur la valeur ou placez votre curseur sur la valeur dans le curseur et sélectionnez *Suivant*.</block>
+  <block id="c405cc8fb6aeff71a00dc67a5c45e8bb" category="list-text">Sélectionnez les aspects de performances que vous souhaitez gérer : latence la plus faible, IOPS les plus élevées, charges de travail mixtes ou performances non importantes, puis sélectionnez *Suivant*.</block>
+  <block id="ad48853148bed59c232afb2557695a4a" category="list-text">Entrez un budget en dollars US, faites glisser le curseur jusqu'à la valeur ou placez votre curseur sur la valeur dans le curseur et sélectionnez *Suivant*.</block>
+  <block id="27fc8e6d0827e3065fe50dd710023bf2" category="paragraph">Un ensemble de recommandations s'affiche dans différents onglets pour les options que vous avez choisies.</block>
+  <block id="ee45c26f52faad8357038bfc28072aef" category="list-text">Passez en revue les recommandations.</block>
+  <block id="3369d572efb7971966d65671e9a87c83" category="list-text">Pour télécharger un PDF des recommandations, sélectionnez *Télécharger*.</block>
+  <block id="c8f18e923447016bf04be2ef9ff734e6" category="list-text">Pour communiquer avec un représentant commercial NetApp au sujet des recommandations, sélectionnez *contacter le service commercial*.</block>
+  <block id="867f3f4db8b8a564320a00c8fe1f8bb8" category="paragraph">Une page Web vous montre les options que vous pouvez choisir pour contacter un représentant commercial NetApp.</block>
+  <block id="8e4d9596ef29e6bf948898e20b66f6c4" category="section-title">Consultez les évaluations des mises à jour technologiques déjà effectuées</block>
+  <block id="2be881e5370ff5fb4545cae0fccc4747" category="paragraph">Peut-être aimeriez-vous passer en revue les évaluations des mises à jour technologiques déjà effectuées, puis les recommandations une nouvelle fois.</block>
+  <block id="56a152189b75153e4f0f874e3d9c9457" category="list-text">Sélectionnez l'onglet *Tech Refresh candidates*, qui répertorie tous les systèmes sur lesquels vous avez effectué une évaluation de mise à jour technologique. Ensuite, sélectionnez *Afficher l'action* sur la ligne pour voir les évaluations et les recommandations pour ce système.</block>
+  <block id="f248060618ab5de89770d8ca2f297946" category="paragraph">Vous pouvez également sélectionner la ligne sur laquelle « action entreprise » s'affiche et sélectionner *Afficher* pour afficher les détails de ce système.</block>
+  <block id="77897fd355d4822999b6e016d2698bb2" category="list-text">Affichez les recommandations d'actualisation.</block>
+  <block id="41e96c41b82196674a6b6c99d0c0b8ad" category="section-title">08 novembre 2023</block>
+  <block id="c4cd570753ca79cf809d24d7723c0e82" category="paragraph">Cette version de BlueXP Economic Efficiency comprend une nouvelle option qui permet d'évaluer vos ressources et d'identifier si une mise à jour technologique est recommandée. Le service inclut une nouvelle option de mise à jour technologique dans le menu de navigation de gauche, de nouvelles pages sur lesquelles vous pouvez évaluer vos charges de travail et ressources actuelles, ainsi qu'un rapport qui vous fournit des recommandations.</block>
 </blocks>
