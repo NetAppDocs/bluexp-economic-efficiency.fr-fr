@@ -16,6 +16,20 @@ Découvrez les nouveautés de l'efficacité économique de BlueXP.
 
 
 
+== 14 mars 2024
+
+Si vous disposez de ressources existantes et souhaitez déterminer si une technologie doit être mise à jour, vous pouvez utiliser les options de mise à jour technologique d'efficacité économique BlueXP. Vous pouvez soit examiner une courte évaluation de vos workloads actuels et obtenir des recommandations, soit envoyer des journaux AutoSupport à NetApp au cours des 90 derniers jours, le service peut maintenant fournir une simulation des workloads pour voir les performances de vos workloads sur du nouveau matériel.
+
+Vous pouvez également ajouter une charge de travail et exclure des charges de travail existantes de la simulation.
+
+Auparavant, vous pouviez uniquement évaluer vos ressources et déterminer si une mise à jour technologique est recommandée ?
+
+La fonction fait désormais partie de l'option Tech Refresh dans le menu de navigation de gauche.
+
+En savoir plus sur le link:../use/tech-refresh.html["Évaluer une mise à jour technologique"].
+
+
+
 == 08 novembre 2023
 
 Cette version de BlueXP Economic Efficiency comprend une nouvelle option qui permet d'évaluer vos ressources et d'identifier si une mise à jour technologique est recommandée. Le service inclut une nouvelle option de mise à jour technologique dans le menu de navigation de gauche, de nouvelles pages sur lesquelles vous pouvez évaluer vos charges de travail et ressources actuelles, ainsi qu'un rapport qui vous fournit des recommandations.

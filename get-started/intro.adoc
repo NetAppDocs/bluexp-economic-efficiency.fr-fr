@@ -26,8 +26,9 @@ L'efficacité économique de BlueXP peut vous aider à atteindre les objectifs s
 
 La planification de la capacité de l'efficacité économique BlueXP ne s'applique qu'aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).
 
-*Évaluation de la mise à jour technologique*
+*Évaluation et simulation de la mise à jour technologique*
 
+* Effectuez une simulation de vos charges de travail sur du nouveau matériel et téléchargez les résultats.
 * Consultez la liste des systèmes qui approchent de leur fin de vie ou d'autres événements du cycle de vie.
 * Examinez une évaluation de votre environnement de travail actuel et obtenez des recommandations sur les options de mise à jour technologique qui répondent à vos exigences de charge de travail, de capacité, de performances et de budget.
 +
@@ -35,15 +36,13 @@ image:economic-efficiency-diagram-overview2.png["Diagramme du processus de mise 
 
 
 
-Le service est accessible dans BlueXP sous la catégorie *gouvernance*.
-
 
 
 == Avantages de l'efficacité économique de BlueXP
 
 L'efficacité économique de BlueXP offre les avantages suivants :
 
-* Identifie les systèmes qui approchent des événements de cycle de vie pour vous aider à planifier une mise à jour technologique
+* Identifie les systèmes qui approchent des événements de cycle de vie pour vous aider à planifier une actualisation technologique, soit en effectuant une courte évaluation, soit en effectuant une simulation de charge de travail sur un nouveau matériel
 * Permet d'obtenir facilement des capacités supplémentaires
 * Il propose des recommandations de votre conseiller de confiance pour résoudre les problèmes de capacité dans votre environnement
 * Réduction du temps passé à planifier un stockage supplémentaire
@@ -56,3 +55,9 @@ L'efficacité économique de BlueXP offre les avantages suivants :
 NetApp ne vous facture pas pour l'utilisation du service.
 
 Si vous décidez de basculer les données inactives vers un stockage cloud, vous devez consulter votre fournisseur cloud pour connaître les frais applicables.
+
+
+
+== L'accès
+
+Vous pouvez accéder à cette fonctionnalité soit via BlueXP Economic Efficiency (*gouvernance* > *Economic Efficiency* > *Tech Refresh*), soit via NetApp Digital Advisor (*Tableau de bord* > *widget planification* > *Tech Refresh*).
