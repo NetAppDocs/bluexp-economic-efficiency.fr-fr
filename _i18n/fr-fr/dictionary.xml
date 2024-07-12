@@ -69,7 +69,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">Sélectionnez *Enregistrer*.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Résultat</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">Après ce délai, le risque apparaît à nouveau dans la liste des risques.</block>
-  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">Commencez par vérifier que votre environnement opérationnel, votre connexion, votre accès au réseau et votre navigateur Web sont opérationnels.</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">Votre environnement doit respecter toutes les exigences de BlueXP, y compris une connexion et un accès au réseau à partir d'un navigateur Web.</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">Vous devez disposer d'identifiants d'accès aux clusters.</block>
   <block id="04346ae081b15c5b07fe9620a0a0fae7" category="list-text">Bien qu'il ne s'agisse pas d'une exigence, il est utile que le connecteur BlueXP soit en place et activé et que le système ONTAP soit détecté. Si ce n'est pas le cas, le service vous guide tout au long de ces processus.</block>
@@ -251,7 +250,6 @@
   <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">Forum aux questions sur l'efficacité économique de BlueXP</block>
   <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">Accédez à l'efficacité économique de BlueXP</block>
   <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">*Avez-vous besoin d'une licence pour utiliser l'efficacité économique de BlueXP ?*</block>
-  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">L'efficacité économique BlueXP identifie les ressources dont la capacité est faible actuelle ou prévue et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF).</block>
   <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">Découvrez les nouveautés de l'efficacité économique de BlueXP.</block>
   <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">Le nouveau service d'efficacité économique BlueXP identifie les ressources de stockage dont la capacité est faible, actuelle ou prévue, et fournit des recommandations sur le Tiering des données ou la capacité supplémentaire pour les systèmes AFF sur site.</block>
   <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">Découvrez l'efficacité économique de BlueXP</block>
@@ -475,4 +473,5 @@
   <block id="9087f29454392d1114832868ba710775" category="paragraph">Vous pouvez accéder à cette fonctionnalité soit via BlueXP Economic Efficiency (*gouvernance* &gt; *Economic Efficiency* &gt; *Tech Refresh*), soit via NetApp Digital Advisor (*Tableau de bord* &gt; *widget planification* &gt; *Tech Refresh*).</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">Documentation BlueXP sur l'efficacité économique</block>
   <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">Évaluer une mise à jour technologique</block>
+  <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">Commencez par vérifier la préparation de votre environnement opérationnel, de votre connexion et de votre accès au réseau.</block>
 </blocks>

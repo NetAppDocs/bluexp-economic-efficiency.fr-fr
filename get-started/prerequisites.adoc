@@ -12,7 +12,7 @@ summary: 'Commencez à utiliser l"efficacité économique de BlueXP en vérifian
 
 
 [role="lead"]
-Commencez par vérifier que votre environnement opérationnel, votre connexion, votre accès au réseau et votre navigateur Web sont opérationnels.
+Commencez par vérifier la préparation de votre environnement opérationnel, de votre connexion et de votre accès au réseau.
 
 Pour exploiter l'efficacité économique de BlueXP, vous devez vous assurer que votre environnement répond à toutes les exigences.
 
