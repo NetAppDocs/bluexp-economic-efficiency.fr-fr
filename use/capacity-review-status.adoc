@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
-keywords: economic efficiency remediate, economic efficiency, capacity planning 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, forecast, capacity, storage, 
 summary: 'Si vos clusters sont actuellement inférieurs ou prévus pour être inférieurs au seuil de capacité de 70 %, le service d"efficacité économique les identifie comme ressources de faible capacité et vous alerte.' 
 ---
 = Vérifiez l'état de planification de la capacité
@@ -12,16 +12,13 @@ summary: 'Si vos clusters sont actuellement inférieurs ou prévus pour être in
 
 
 [role="lead"]
-Si les actifs de stockage de votre environnement sont actuellement inférieurs ou prévus au seuil de capacité de 90 %, le service d'efficacité économique les identifie comme ressources de faible capacité et vous alerte. De plus, le service d'efficacité économique fournit des recommandations sur la façon de classer les données ou d'obtenir des capacités supplémentaires.
+Si les actifs de stockage de votre environnement sont actuellement inférieurs ou prévus au seuil de capacité de 90 %, le service d'efficacité économique les identifie comme ressources de faible capacité et vous alerte. En outre, le service d'efficacité économique fournit des recommandations sur la hiérarchisation des données.
 
 Vous pouvez examiner les types de données suivants pour faciliter la résolution du problème de capacité.
 
 * Plateforme
 * Pays où se trouve l'actif
 * Capacité actuelle et prévue par mois
-* Taux d'utilisation et pourcentage de la capacité
-* Tendances en matière de latence
-* Tendances en matière d'IOPS
 
 
 .Étapes
@@ -29,7 +26,7 @@ Vous pouvez examiner les types de données suivants pour faciliter la résolutio
 . Sélectionnez *Evaluer les options de stockage* pour la ressource.
 . Choisissez l'une des options suivantes :
 +
-** *Ajouter capacité*: Continuer par link:../use/capacity-add.html["ajout de capacité"].
+** *Pratiques exemplaires*: Continuer en cliquant sur le lien pour voir les pratiques exemplaires.
 ** *Données inactives de niveau* : continuer par link:../use/capacity-tier-data.html["tiering des données inactives vers un stockage cloud et libération du stockage"].
 ** *Aucune action nécessaire*: Continuer par link:../use/capacity-reminders.html["en sélectionnant aucune action et en définissant des rappels à vérifier à nouveau"].
 

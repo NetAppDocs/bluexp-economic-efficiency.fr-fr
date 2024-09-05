@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: get-started/intro.html 
-keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage 
-summary: 'Le service BlueXP Economic Efficiency identifie les clusters qui ont une faible capacité actuelle ou prévue et vous fournit des recommandations sur le Tiering des données ou la capacité supplémentaire (pour les systèmes AFF). Le service fournit également des recommandations de mise à jour technologique sur les systèmes qui approchent de leur fin de vie.' 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage, forecast 
+summary: Le service BlueXP  Economic Efficiency identifie les clusters dont la capacité est actuellement ou prévue et vous fournit des recommandations sur le Tiering des données. 
 ---
 = Découvrez l'efficacité économique de BlueXP
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 'Le service BlueXP Economic Efficiency identifie les clusters qui ont u
 
 
 [role="lead"]
-L'efficacité économique de BlueXP évalue deux domaines essentiels de votre environnement : vos ressources de stockage avec une capacité faible actuelle ou prévue, et vos systèmes qui approchent de la fin de vie. Le service fournit des recommandations sur le Tiering des données ou une capacité supplémentaire (pour les systèmes AFF) et des options de mise à jour technologique qui répondent aux besoins de votre entreprise.
+L'efficacité économique de BlueXP  évalue vos ressources de stockage avec une capacité faible, actuelle ou prévue. Ce service fournit des recommandations sur les options de Tiering des données qui répondent aux besoins de votre entreprise.
 
 L'efficacité économique de BlueXP peut vous aider à atteindre les objectifs suivants.
 
@@ -20,20 +20,6 @@ L'efficacité économique de BlueXP peut vous aider à atteindre les objectifs s
 
 * Identifiez dans votre environnement les ressources de stockage présentant des capacités faibles.
 * Examinez les actifs pour vérifier la capacité actuelle et prévue.
-* Examinez l'utilisation du processeur, les performances d'IOPS et la latence pour identifier les opportunités de résolution des problèmes de capacité.
-* Obtenez des recommandations pour l'extension de la capacité adaptée à votre environnement.
-
-
-La planification de la capacité de l'efficacité économique BlueXP ne s'applique qu'aux systèmes AFF sur site (y compris les systèmes AFF unifiés et les baies 100 % SAN).
-
-*Évaluation et simulation de la mise à jour technologique*
-
-* Effectuez une simulation de vos charges de travail sur du nouveau matériel et téléchargez les résultats.
-* Consultez la liste des systèmes qui approchent de leur fin de vie ou d'autres événements du cycle de vie.
-* Examinez une évaluation de votre environnement de travail actuel et obtenez des recommandations sur les options de mise à jour technologique qui répondent à vos exigences de charge de travail, de capacité, de performances et de budget.
-+
-image:economic-efficiency-diagram-overview2.png["Diagramme du processus de mise à jour technologique dans l'efficacité économique de BlueXP"]
-
 
 
 
@@ -42,8 +28,7 @@ image:economic-efficiency-diagram-overview2.png["Diagramme du processus de mise 
 
 L'efficacité économique de BlueXP offre les avantages suivants :
 
-* Identifie les systèmes qui approchent des événements de cycle de vie pour vous aider à planifier une actualisation technologique, soit en effectuant une courte évaluation, soit en effectuant une simulation de charge de travail sur un nouveau matériel
-* Permet d'obtenir facilement des capacités supplémentaires
+* Identifie les systèmes qui approchent des événements de cycle de vie pour vous aider à planifier une mise à jour technologique
 * Il propose des recommandations de votre conseiller de confiance pour résoudre les problèmes de capacité dans votre environnement
 * Réduction du temps passé à planifier un stockage supplémentaire
 

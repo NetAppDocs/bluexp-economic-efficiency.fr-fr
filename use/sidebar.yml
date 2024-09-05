@@ -2,14 +2,10 @@
 section: use
 title: Profitez de l'efficacité économique de BlueXP
 entries:
-- title: Évaluer une mise à jour technologique
-  url: "/use/tech-refresh.html"
 - title: Examinez et résolvez les problèmes de capacité
   url: "/use/capacity-remediate-overview.html"
 - title: Vérifiez l'état de la capacité
   url: "/use/capacity-review-status.html"
-- title: Ajoutez de la capacité
-  url: "/use/capacity-add.html"
 - title: Basculez les données inactives vers le stockage cloud
   url: "/use/capacity-tier-data.html"
 - title: Définissez les rappels pour les vérifier à nouveau
